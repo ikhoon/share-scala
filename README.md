@@ -1,5 +1,5 @@
 ## Functional programming with scala
-λ - 스칼라 프로그래밍 공부 및 설명서 by @ikhoon
+λ - 스칼라 프로그래밍 공부 및 설명서 written by @ikhoon
 
 ### 슬라이드
 * [스칼라 왜 공부해야 하나요?(슬라이드)](./why-scala.pdf)
